@@ -9,6 +9,8 @@ This repository contains three notebooks for building image classifiers by using
 
 ## 1. VGG16 Architecture
 
+![VGG16 Architecture](VGG16.png)
+
 The above image shows the VGG16 architecture. "Image_Classifier_using_VGG16.ipynb" notebook shows,
 ### Part 1: Building an Image Classifier from Scratch
 First half of the notebook provide a guide to build image classifier using VGG16 from scratch. But you can see, its loss is greater than the accuracy. This is because VGG16 is a complex architecture. In order to get higher accuracy 
